@@ -22,11 +22,11 @@ class Program
         }
         else if (percentage >= 60)
         {
-            Console.WriteLine("Your grade was a D. You did not pass, you have valuale experience for next time!");
+            Console.WriteLine("Your grade was a D. You did not pass, you have valuable experience for next time!");
         }
         else
         {
-            Console.WriteLine("Your grade was a F. You did not pass, you have valuale experience for next time!");
+            Console.WriteLine("Your grade was a F. You did not pass, you have valuable experience for next time!");
         }
     }
 }
